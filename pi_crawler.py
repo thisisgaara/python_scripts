@@ -7,4 +7,4 @@ Purpose: Crawler to download all the editions of Raspberry pi magazine
 Version1: Simple implementaiton to download it to disk
 Version2: Adding google drive API to upload in drive by making its own directory
 """
-
+from __future__ import division
