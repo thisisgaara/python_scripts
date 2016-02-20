@@ -1,0 +1,8 @@
+Matching Word Boundaries: r'\b[aeiouAEIOU][a-zA-Z]*\b'
+
+Capturing & Non-Capturing Groups: r'(ok){3,}'
+
+Alternative Matching r'^(Mr\.|Mrs\.|Ms\.|Dr\.|Er\.)[a-zA-Z]+$'
+
+
+
